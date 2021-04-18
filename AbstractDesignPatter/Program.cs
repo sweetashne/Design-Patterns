@@ -15,7 +15,7 @@ namespace AbstractDesignPatter
 			Console.WriteLine();
 
 			book = typeFactory.GetBook("Later");
-			getName = book.getName();
+			getName = book.GetName();
 			Console.WriteLine("Book Name: " + getName);
 			Console.WriteLine();
 
@@ -24,7 +24,7 @@ namespace AbstractDesignPatter
 			Console.WriteLine();
 
 			book = typeFactory.GetBook("American Cheese");
-			getName = book.getName();
+			getName = book.GetName();
 			Console.WriteLine("Book Name: " + getName);
 		}
 	}

@@ -2,6 +2,6 @@
 {
 	public interface IBook
 	{
-		string getName();
+		string GetName();
 	}
 }

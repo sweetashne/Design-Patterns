@@ -2,7 +2,7 @@
 {
 	public class AlrightAlrightAlright : IBook
 	{
-		public string getName()
+		public string GetName()
 		{
 			return "Alright, Alright, Alright";
 		}

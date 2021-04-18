@@ -6,7 +6,7 @@ namespace AbstractDesignPatter
 {
 	public class AmericanCheese : IBook
 	{
-		public string getName()
+		public string GetName()
 		{
 			return "American Cheese";
 		}

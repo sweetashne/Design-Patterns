@@ -2,7 +2,7 @@
 {
 	public class DownComesTheNight : IBook
 	{
-		public string getName()
+		public string GetName()
 		{
 			return "Down Comes the Night";
 		}
