@@ -2,7 +2,7 @@
 {
 	public class Later : IBook
 	{
-		public string getName()
+		public string GetName()
 		{
 			return "Later";
 		}

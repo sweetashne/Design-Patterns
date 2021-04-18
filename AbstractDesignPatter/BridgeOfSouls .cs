@@ -2,7 +2,7 @@
 {
 	public class BridgeOfSouls : IBook
 	{
-		public string getName()
+		public string GetName()
 		{
 			return "Bridge of Souls";
 		}
