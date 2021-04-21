@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Design_Patterns
+namespace BuilderDesignPattern
 {
 	public class PizzaBuilder : IPizzaBuilder
 	{

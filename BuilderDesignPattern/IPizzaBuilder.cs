@@ -1,4 +1,4 @@
-﻿namespace Design_Patterns
+﻿namespace BuilderDesignPattern
 {
 	interface IPizzaBuilder
 	{
